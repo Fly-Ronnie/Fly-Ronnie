@@ -9,7 +9,7 @@ I'm originally from Oklahoma City but spent the last 10 years in Austin, TX. I s
 During the pandemic, my wife and I had our daughter. That, combined with a family illness, brought us back home to OKC. The timing felt right for a career transition. I was grateful for the opportunities facility management afforded, but I felt I needed to get back to something more creative and challenging. I had been admiring UX/UI from afar for years. So, once we settled in OKC, I took the leap.
 <br>
 <br>
-I'm nearing the end of the Google/Coursera UX Design Certification program. I've also been taking classes online through OSU. I'm excited to be starting a new chapter and making connections here in my home state. So, if anyone here is also interested in UX/UI, let's connect! I'd love to grab a coffee and chat!
+I'm nearing the end of the Google/Coursera UX Design Certification program. I've also been taking classes online through OSU. I'm excited to be starting a new chapter and making connections in my home state. So, if anyone here is also interested in UX/UI, let's connect! I'd love to grab a coffee and chat!
 
 <!--
 **Fly-Ronnie/Fly-Ronnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
