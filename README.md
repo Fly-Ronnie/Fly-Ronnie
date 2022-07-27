@@ -11,7 +11,7 @@ During the pandemic, my wife and I had our daughter. That, combined with a famil
 <br>
 I'm nearing the end of the Google/Coursera UX Design Certification program. I've also been taking classes online through OSU. I'm excited to be starting a new chapter and making connections in my home state. So, if anyone here is also interested in UX/UI, let's connect! I'd love to grab a coffee and chat!
 
-<strong>What I'm working on today:</strong> I'm currently working on a Mockup for a mobile app called Figure/Ground (fig.gnd.). It's a virtual gallery tour app that I took from a Sharpen Prompt. 
+<strong>What I'm working on today:</strong> I'm currently working on a Mockup for a mobile app called Figure/Ground (fig.gnd.). It's a virtual gallery tour app that I took from a Sharpen prompt. 
 
 <!--
 **Fly-Ronnie/Fly-Ronnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
