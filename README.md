@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Cameron. I'm a student and stay-at-home dad hoping to launch a career in UX Design.
 <br>
